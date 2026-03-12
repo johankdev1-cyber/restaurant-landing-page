@@ -14,7 +14,7 @@ A refined, editorial landing page designed for a fine dining restaurant. Built a
 
 ## About
 
-Ember is a concept landing page for an upscale restaurant targeting high-end diners. The goal was to communicate luxury, intimacy, and quality through design alone — before the visitor reads a single word. The split-screen hero, gold accents, and editorial typography do exactly that.
+Ember is a concept landing page for an upscale restaurant targeting high-end diners. The goal was to communicate luxury, intimacy, and quality through design alone, before the visitor reads a single word. The split-screen hero, gold accents, and editorial typography do exactly that.
 
 ---
 
